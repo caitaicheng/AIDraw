@@ -1,73 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2023-01-16T06:14:13.530Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="eB_4t_FmoXcojExZa6G6" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-16T07:07:01.746Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="M4kdYmZFg9Iz6rLZtmtA" version="20.8.5" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="1546" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dKdSaXE48SgPbhcamS2K-30" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="194" y="670" width="1076" height="250" as="geometry" />
+          <mxGeometry x="199" y="670" width="1076" height="250" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-31" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="200" y="500" width="1075" height="160" as="geometry" />
+          <mxGeometry x="200" y="480" width="1075" height="160" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-32" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="200" y="310" width="1075" height="140" as="geometry" />
+          <mxGeometry x="200" y="210" width="1075" height="240" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-33" value="" style="html=1;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=node;archiType=square;fontSize=14;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="533.5" y="760" width="480" height="145" as="geometry" />
+          <mxGeometry x="533.5" y="715" width="480" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-35" value="&lt;div&gt;ERP&lt;/div&gt;" style="html=1;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.tech;techType=sysSw;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="720" y="800" width="140" height="60" as="geometry" />
+        <mxCell id="dKdSaXE48SgPbhcamS2K-58" value="物资/财务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="329.5" y="777.5" width="121" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-47" value="台账服务" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="720" y="550" width="185" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-49" value="" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="490" y="540" width="185" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-51" value="" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="784" y="540" width="185" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-53" value="其他..." style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="540" width="185" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-54" value="扫码/RFID解析" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="244.5" y="342.5" width="150" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-55" value="台账关联" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="450" y="342.5" width="150" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-56" value="清册盘点" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=event;archiType=rounded;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="656.5" y="342.5" width="150" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-57" value="辅助定位" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="870" y="342.5" width="150" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-58" value="基础服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1269" y="751" width="121" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-59" value="serve" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1269" y="590" width="121" height="20" as="geometry" />
+        <mxCell id="dKdSaXE48SgPbhcamS2K-59" value="PMS3.0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="320" y="540" width="121" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-60" value="App" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1290" y="370" width="80" height="20" as="geometry" />
+          <mxGeometry x="350" y="340" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-63" value="Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="50" y="70" width="1590" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KlTHRG8YCgh4nD8Dfrsh-3" value="其他..." style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffff99;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="345.75" width="120" height="68.5" as="geometry" />
+        <mxCell id="KlTHRG8YCgh4nD8Dfrsh-15" value="" style="html=1;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=node;archiType=square;fontSize=14;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="533.5" y="487.5" width="480" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="KlTHRG8YCgh4nD8Dfrsh-10" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;startSize=10;endArrow=open;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;entryX=0.518;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="dKdSaXE48SgPbhcamS2K-32">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="720" y="460" />
-              <mxPoint x="700" y="480" />
-              <mxPoint x="760" y="500" />
-            </Array>
-            <mxPoint x="757" y="500" as="sourcePoint" />
-            <mxPoint x="1071.5" y="600" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="KlTHRG8YCgh4nD8Dfrsh-16" value="台账服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="500" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KlTHRG8YCgh4nD8Dfrsh-17" value="异动管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="500" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KlTHRG8YCgh4nD8Dfrsh-18" value="图形" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="570" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KlTHRG8YCgh4nD8Dfrsh-20" value="其他服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="570" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KlTHRG8YCgh4nD8Dfrsh-21" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="640" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KlTHRG8YCgh4nD8Dfrsh-22" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="758.5" y="450" width="11.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KlTHRG8YCgh4nD8Dfrsh-24" value="ERP系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="771" width="80" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="KlTHRG8YCgh4nD8Dfrsh-25" value="其他系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="667" y="771" width="91.5" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="KlTHRG8YCgh4nD8Dfrsh-27" value="" style="html=1;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=node;archiType=square;fontSize=14;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="533.5" y="282.5" width="480" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="KlTHRG8YCgh4nD8Dfrsh-28" value="扫码/FRID解析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="295" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KlTHRG8YCgh4nD8Dfrsh-29" value="台账关联" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="692.5" y="360" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KlTHRG8YCgh4nD8Dfrsh-30" value="辅助定位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="360" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KlTHRG8YCgh4nD8Dfrsh-31" value="台账编辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="692.5" y="295" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KlTHRG8YCgh4nD8Dfrsh-32" value="其他功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="352.5" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KlTHRG8YCgh4nD8Dfrsh-35" value="扫码建帐" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="735" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KlTHRG8YCgh4nD8Dfrsh-36" value="..." style="html=1;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=node;archiType=square;fontSize=14;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="320" width="116.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KlTHRG8YCgh4nD8Dfrsh-37" value="其他app" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1118.25" y="240" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
